@@ -1,6 +1,6 @@
 # 🗣️ DebatingAgents
 
-An intelligent system that orchestrates a debate between two AI models to refine answers and reach consensus. Perfect for tackling math, logic, fact-checking, or coding challenges with enhanced reliability through collaborative reasoning. 🚀
+An intelligent system that orchestrates a debate between two AI models to refine answers and reach consensus. Perfect for tackling math, logic, fact-checking, or coding challenges with enhanced reliability through collaborative reasoning. 
 
 
 ## 🖼️ Snapshot
