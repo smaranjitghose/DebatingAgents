@@ -1,5 +1,9 @@
 # 🗣️ DebatingAgents
 
+[![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)](https://openai.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An intelligent system that orchestrates a debate between two AI models to refine answers and reach consensus. Perfect for tackling math, logic, fact-checking, or coding challenges with enhanced reliability through collaborative reasoning. 
 
 
