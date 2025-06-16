@@ -1,0 +1,12 @@
+[project]
+name = "debatingagents"
+version = "0.0.1"
+description = "An intelligent system that orchestrates a debate between two AI models to refine answers and reach consensus."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.20.0",
+    "openai>=1.86.0",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.0",
+]
